@@ -6,11 +6,11 @@
 
 ## Shipped
 
-| | |
+| Product | |
 |---|---|
 | **[BandNine](https://bandnine.org)** | IELTS Speaking practice with a live voice AI examiner. Realtime audio, scoring, subscriptions. |
 | **[Dino: Beyond Offline](https://alisahindev.github.io/dino-beyond/)** | Pixel-art runner written three times on one design: native iOS (Swift + SpriteKit), native Android (Java + Canvas) and an offline web build used for bot playtests. |
-| **[Vaktinde](https://alisahindev.github.io/vaktinde-legal/)** | Reminder app for iOS and Android. |
+| **[Vaktinde](https://alisahindev.github.io/vaktinde-legal/)** | Reminder app. |
 
 ## What I build
 
@@ -28,11 +28,11 @@
 
 ## Stack
 
-**Languages** TypeScript, Swift, Java, Dart, SQL
-**Mobile** React Native / Expo, SwiftUI / SpriteKit, Flutter
-**Web** React, Next.js, Tailwind
-**Backend** Node.js, Bun, Elysia, GraphQL, Hasura, Supabase, Postgres, Drizzle
-**Media & AI** WebRTC, MediaMTX, Gemini, Claude
+- **Languages:** TypeScript, Swift, Java, Dart, SQL
+- **Mobile:** React Native / Expo, SwiftUI / SpriteKit, Flutter
+- **Web:** React, Next.js, Tailwind
+- **Backend:** Node.js, Bun, Elysia, GraphQL, Hasura, Supabase, Postgres, Drizzle
+- **Media & AI:** WebRTC, MediaMTX, Gemini, Claude
 
 ## Play
 
